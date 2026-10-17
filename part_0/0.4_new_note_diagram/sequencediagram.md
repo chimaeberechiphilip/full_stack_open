@@ -1,5 +1,6 @@
 ```mermaid
 sequenceDiagram
+    autonumber
     participant browser
     participant server
 
